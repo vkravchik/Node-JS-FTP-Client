@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "archiver": "^3.1.1",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "basic-ftp": "^4.5.1",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
